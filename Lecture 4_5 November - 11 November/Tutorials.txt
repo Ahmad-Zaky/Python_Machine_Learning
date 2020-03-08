@@ -1,0 +1,73 @@
+
+Cython 3.0a0 documentation:
+
+http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html
+
+
+
+PEP 8 -- Style Guide for Python Code
+
+https://www.python.org/dev/peps/pep-0008/
+
+
+
+PEP 20 -- The Zen of Python
+
+https://www.python.org/dev/peps/pep-0020/
+
+
+
+scikit-learn
+Machine Learning in Python
+
+https://scikit-learn.org/stable/
+
+
+
+Python Data Analysis Library
+
+https://pandas.pydata.org/
+
+
+
+Welcome to Sacred’s documentation!
+
+https://sacred.readthedocs.io/en/latest/index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
